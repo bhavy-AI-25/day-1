@@ -13,3 +13,4 @@ print(" watch 30 min tv")
 print("   eat dinner")
 print("     sleep")
 print(1*7,"hours of study a week")
+#my project
